@@ -7,9 +7,9 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/scrapmanbot)
+- can be found on [Telegram](https://telegram.dog/scrapriobot)
 
-🙄 [@ScrapMan](https://telegram.dog/scrapmanbot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
+🙄 [@ScrapRioBot](https://telegram.dog/ScrapRioBot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
 ## Frequently Asked Questions
@@ -80,4 +80,4 @@ check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/maste
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/mrismanaziz)
+  - [me](https://tx.me/fckualot)
