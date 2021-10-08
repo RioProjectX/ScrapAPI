@@ -12,9 +12,9 @@ class Config:
     CHUNK_SIZE = 10280
     # MyTelegram.org
     # configurtion required while creating new application
-    APP_TITLE = os.environ.get("APP_TITLE", "scrapmanbot")
-    APP_SHORT_NAME = os.environ.get("APP_SHORT_NAME", "scrapmanbot")
-    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/scrapmanbot")
+    APP_TITLE = os.environ.get("APP_TITLE", "scrapriobot")
+    APP_SHORT_NAME = os.environ.get("APP_SHORT_NAME", "scrapriobot")
+    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/scrapriobot")
     # these platform informations were obtained
     # on 27.01.2020 21:15:50 IST
     APP_PLATFORM = [
@@ -32,10 +32,10 @@ class Config:
     # https://github.com/SpEcHiDe/MyTelegramOrgRoBot/issues/3
     APP_DESCRIPTION = os.environ.get(
         "APP_DESCRIPTION",
-        "created using https://telegram.dog/scrapmanbot"
+        "created using https://telegram.dog/scrapriobot"
     )
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "Managed With ☕️ By @mrismanaziz")
+    FOOTER_TEXT = os.environ.get("FTEXT", "Managed With ☕️ By @fckualot")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
