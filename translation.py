@@ -7,10 +7,10 @@ Silahkan Masukkan Nomor Telepon Telegram Anda Dengan Format +62(nohp).
 Sekarang silakan kirim kode Telegram yang Anda terima dari Telegram!
 
 Kode ini hanya digunakan untuk tujuan mendapatkan ID APP dari my.telegram.org
-jika Anda tidak mempercayai dev bot ini, Ngambil Manual aja Ya 😁🙏
+jika Anda tidak mempercayai dev bot ini, Ngambil Manual aja Ya 🙏
 """
     BEFORE_SUCC_LOGIN = "Kode Diterima. Scarpping Web Page..."
     ERRED_PAGE = "Hadeh Error. Gagal Mendapatkan id aplikasi. \n\n Kontak saya : @fckualot"
     CANCELLED_MESG = "Bye! Silahkan /start kembali untuk mengulang"
-    IN_VALID_CODE_PVDED = "Masukan Kode Telegram yang Bener Goblok 😁🙏"
-    IN_VALID_PHNO_PVDED = "Masukan NO HP yang Bener Goblok 😁🙏 Pake Format +(kode Negara) Contoh +62(nohp)"
+    IN_VALID_CODE_PVDED = "Masukan Kode Telegram yang Bener Cakep 🙏"
+    IN_VALID_PHNO_PVDED = "Masukan NO HP yang Bener Cakep 🙏 Pake Format +(kode Negara) Contoh +62(nohp)"
